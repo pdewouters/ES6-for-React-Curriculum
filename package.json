@@ -19,7 +19,7 @@
   "homepage": "http://courses.reactjsprogram.com/courses/reactjsfundamentals",
   "dependencies": {
     "axios": "^0.9.1",
-    "react": "^0.14.7",
+    "react": "^15.6.2",
     "react-dom": "^0.14.7",
     "react-router": "^2.0.0"
   },
